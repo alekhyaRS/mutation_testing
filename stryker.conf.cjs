@@ -1,3 +1,4 @@
+
 // Exporting an object containing configuration options
 module.exports = {
   // Specify the package manager to be used
